@@ -1,3 +1,3 @@
 # barnsley-fern
 
-[demo](/index.html)
+[demo](https://cozytnk.github.io/barnsley-fern/index.html)
